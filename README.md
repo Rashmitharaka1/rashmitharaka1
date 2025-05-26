@@ -1,5 +1,8 @@
 <h1 align="center">Hello, I'm Rashmi Tharaka 🧑‍💻</h1>
 <br>
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=rashmitharaka1&label=Profile%20views&color=0e75b6&style=flat" alt="rashmitharaka1" />
+</p>
 
 <p align="center" style="line-height:1.8;">
   <em>
